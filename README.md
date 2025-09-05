@@ -13,7 +13,7 @@
 We are a **smart contract auditing and security research company** dedicated to making Web3 safer.
 Our mission is to identify vulnerabilities, strengthen codebases, and build trust in decentralized applications.
 
-We are a group of competitive smart contract auditors trying offering private audits
+We are a group of competitive smart contract auditors offering private audits
 
 ## 💡 What We Do
 
